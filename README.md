@@ -1,11 +1,5 @@
 # 🚀 Dn-bot-Session-Generator
 
-## 📊 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/XdKing2/count.svg" alt="visitor counter"/>
-</p>
-
 ---
 
 ## 💡 Fork This Project
