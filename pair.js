@@ -92,7 +92,7 @@ https://whatsapp.com/channel/0029Vb6XNZl3bbUywzJZDH27
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/xh-60/DN-BOT-PAIR
+https://github.com/dark-nick-10/DN-BOT
 
 ——————
 
@@ -128,7 +128,7 @@ https://whatsapp.com/channel/0029Vb6XNZl3bbUywzJZDH27
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/xh-60/DN-BOT-PAIR
+https://github.com/dark-nick-10/DN-BOT
 
 ——————
 
